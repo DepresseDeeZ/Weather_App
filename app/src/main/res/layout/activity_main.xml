@@ -186,7 +186,6 @@
 
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:src="@tools:sample/avatars"
                     tools:srcCompat="@drawable/humidity" />
 
                 <TextView
@@ -223,7 +222,6 @@
 
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:src="@tools:sample/avatars"
                     tools:srcCompat="@drawable/wind" />
 
                 <TextView
@@ -260,7 +258,6 @@
 
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:src="@tools:sample/avatars"
                     tools:srcCompat="@drawable/conditions" />
 
                 <TextView
@@ -297,7 +294,6 @@
 
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:src="@tools:sample/avatars"
                     tools:srcCompat="@drawable/sunrise" />
 
                 <TextView
@@ -334,7 +330,6 @@
 
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:src="@tools:sample/avatars"
                     tools:srcCompat="@drawable/sunset" />
 
                 <TextView
@@ -371,7 +366,6 @@
 
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:src="@tools:sample/avatars"
                     tools:srcCompat="@drawable/sea" />
 
                 <TextView
