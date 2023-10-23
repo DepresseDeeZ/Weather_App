@@ -7,27 +7,43 @@
     android:background="@drawable/sunny_background"
     tools:context=".MainActivity">
 
+    <!--    <androidx.appcompat.widget.SearchView-->
+    <!--        android:id="@+id/searchView"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginStart="8dp"-->
+    <!--        android:layout_marginTop="24dp"-->
+    <!--        android:layout_marginEnd="8dp"-->
+    <!--        android:background="@drawable/searchviewshape"-->
+    <!--        android:iconifiedByDefault="false"-->
+    <!--        android:queryHint="Search for a City"-->
+    <!--        android:searchIcon="@drawable/search"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toTopOf="parent" />-->
 
     <SearchView
         android:id="@+id/searchView"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="24dp"
         android:layout_marginEnd="8dp"
         android:background="@drawable/searchviewshape"
+        android:clickable="true"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
         android:iconifiedByDefault="false"
-        android:queryHint="Search for a City"
-        android:searchIcon="@drawable/search"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:queryHint="Enter Your City here" />
+
 
     <TextView
         android:id="@+id/city_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
         android:drawableLeft="@drawable/loctaion"
         android:drawablePadding="15dp"
         android:fontFamily="@font/merriweathersans_medium"
@@ -45,7 +61,7 @@
         android:layout_marginTop="32dp"
         android:layout_marginEnd="100dp"
         android:fontFamily="@font/merriweathersans_bold"
-        android:text="TextView"
+        android:text="Today"
         android:textColor="@color/black"
         android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -183,10 +199,9 @@
                 android:orientation="vertical">
 
                 <ImageView
-
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    tools:srcCompat="@drawable/humidity" />
+                    android:src="@drawable/humidity" />
 
                 <TextView
                     android:id="@+id/humidity"
@@ -222,7 +237,7 @@
 
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    tools:srcCompat="@drawable/wind" />
+                    android:src="@drawable/wind" />
 
                 <TextView
                     android:id="@+id/windspeed"
@@ -258,7 +273,7 @@
 
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    tools:srcCompat="@drawable/conditions" />
+                    android:src="@drawable/conditions" />
 
                 <TextView
                     android:id="@+id/condition"
@@ -294,7 +309,7 @@
 
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    tools:srcCompat="@drawable/sunrise" />
+                    android:src="@drawable/sunrise" />
 
                 <TextView
                     android:id="@+id/sunrise"
@@ -330,7 +345,7 @@
 
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    tools:srcCompat="@drawable/sunset" />
+                    android:src="@drawable/sunset" />
 
                 <TextView
                     android:id="@+id/sunset"
@@ -366,7 +381,7 @@
 
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    tools:srcCompat="@drawable/sea" />
+                    android:src="@drawable/sea" />
 
                 <TextView
                     android:id="@+id/sea"
