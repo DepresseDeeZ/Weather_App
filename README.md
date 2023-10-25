@@ -1,5 +1,6 @@
 # Weather App
 <img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/b013b212-32c3-49dc-af37-c76bfcd3377f" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/937589ef-8b19-4d1d-b509-d39695d887ae" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 
 
