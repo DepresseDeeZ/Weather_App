@@ -95,7 +95,7 @@ Feel free to explore and enjoy the app to stay updated on weather conditions and
 
 ## License
 
-This Weather App is licensed under the [MIT License](LICENSE).
+This Weather App is licensed is Free
 
 ## Acknowledgments
 
