@@ -70,12 +70,12 @@ List the software, tools, and dependencies users need to have installed before u
 Guide users through the process of installing your application:
 
 ```shell
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/DepresseDeeZ/Weather_App.git
 cd weather-app
 # Add instructions for obtaining the OpenWeather API key
 # Build and run the project in Android Studio
-
-## Usage
+```
+### Usage
 
 **Using the Weather App is simple and intuitive**. Follow these steps to make the most of its features:
 
@@ -87,11 +87,9 @@ cd weather-app
 
 4. **Forecast**: Swipe or navigate to access the weather forecast for the upcoming days. The app provides detailed weather information to help you plan your activities.
 
-5. **Enjoy Lottie Animations**: The app uses Lottie animations to make weather data engaging. You'll see animated weather icons and background animations that respond to the current conditions.
+5. **Search Other Locations**: You can easily switch to view weather information for other locations by tapping on the location name or using the search feature.
 
-6. **Search Other Locations**: You can easily switch to view weather information for other locations by tapping on the location name or using the search feature.
-
-7. **Stay Informed**: The Weather App keeps you informed about the weather in a user-friendly and visually appealing way.
+6. **Stay Informed**: The Weather App keeps you informed about the weather in a user-friendly and visually appealing way.
 
 Feel free to explore and enjoy the app to stay updated on weather conditions and forecasts for your chosen locations.
 
