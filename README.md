@@ -1,6 +1,6 @@
 # Weather App
 
-![sunny](https://github.com/DepresseDeeZ/Weather_App/assets/132985504/b013b212-32c3-49dc-af37-c76bfcd3377f)
+![App Screenshot](https://github.com/DepresseDeeZ/Weather_App/assets/132985504/b013b212-32c3-49dc-af37-c76bfcd3377f)
 
 
 ## Table of Contents
