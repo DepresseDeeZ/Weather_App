@@ -1,6 +1,6 @@
 # Weather App
 
-![App Screenshot](sunnyScreenShot.png)
+![App Screenshot](https://github.com/DepresseDeeZ/Weather_App/blob/master/app/src/main/res/raw/sunnyScreenShot.png)
 
 
 ## Table of Contents
