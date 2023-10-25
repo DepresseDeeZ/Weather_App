@@ -74,3 +74,25 @@ git clone https://github.com/yourusername/weather-app.git
 cd weather-app
 # Add instructions for obtaining the OpenWeather API key
 # Build and run the project in Android Studio
+
+## Usage
+
+**Using the Weather App is simple and intuitive**. Follow these steps to make the most of its features:
+
+1. **Launch the App**: After installation, open the Weather App on your Android device.
+
+2. **Location Selection**: The app will prompt you to select your location. You can enter a city name or use your device's GPS to automatically determine your location.
+
+3. **View Weather Data**: Once your location is set, you'll see real-time weather information for that location. This includes temperature, humidity, wind speed, and current weather conditions.
+
+4. **Forecast**: Swipe or navigate to access the weather forecast for the upcoming days. The app provides detailed weather information to help you plan your activities.
+
+5. **Enjoy Lottie Animations**: The app uses Lottie animations to make weather data engaging. You'll see animated weather icons and background animations that respond to the current conditions.
+
+6. **Search Other Locations**: You can easily switch to view weather information for other locations by tapping on the location name or using the search feature.
+
+7. **Stay Informed**: The Weather App keeps you informed about the weather in a user-friendly and visually appealing way.
+
+Feel free to explore and enjoy the app to stay updated on weather conditions and forecasts for your chosen locations.
+
+![Lottie Animation in Action](lottie_animation.gif)
