@@ -13,7 +13,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -93,4 +92,19 @@ cd weather-app
 
 Feel free to explore and enjoy the app to stay updated on weather conditions and forecasts for your chosen locations.
 
-![Lottie Animation in Action](lottie_animation.gif)
+## License
+
+This Weather App is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+We would like to express our gratitude to the following third-party libraries and APIs that greatly contributed to the development of this app:
+
+- **Lottie Animation**: A fantastic library for creating captivating and interactive animations, adding a delightful touch to the user experience. [GitHub Repository](https://github.com/airbnb/lottie-android)
+
+- **OpenWeather API**: A valuable source of weather data that powers the app's real-time weather information and forecasts, helping us deliver accurate and reliable weather updates. [OpenWeather API Website](https://openweathermap.org/)
+
+We appreciate the developers and communities behind these tools for making them available for free and enhancing our project.
+
+Your use of the Weather App is subject to the terms of the MIT License, and we encourage you to also review the terms of use and licensing for the Lottie Animation library and the OpenWeather API if you plan to use them in your own projects.
+
