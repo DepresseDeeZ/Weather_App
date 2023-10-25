@@ -39,9 +39,6 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-
-
-
     private fun fetchWeatherInfo(cityname :String){
         val retrofit = Retrofit.Builder()
             .addConverterFactory(GsonConverterFactory.create())
