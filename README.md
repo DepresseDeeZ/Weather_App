@@ -1,7 +1,7 @@
 # Weather App
 
-![App Screenshot](![Uploading image.png…]()
-)
+![App Screenshot](CloudyScreenShot.png)
+
 
 ## Table of Contents
 
