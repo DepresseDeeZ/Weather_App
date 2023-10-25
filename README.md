@@ -1,6 +1,7 @@
 # Weather App
 
-![App Screenshot](app_screenshot.png)
+![App Screenshot](![Uploading image.png…]()
+)
 
 ## Table of Contents
 
@@ -70,7 +71,7 @@ Guide users through the process of installing your application:
 
 ```shell
 git clone https://github.com/DepresseDeeZ/Weather_App.git
-cd weather-app
+cd /Weather_App
 # Add instructions for obtaining the OpenWeather API key
 # Build and run the project in Android Studio
 ```
