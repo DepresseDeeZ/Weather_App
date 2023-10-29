@@ -24,6 +24,7 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshot](#ScreenShot)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -102,6 +103,8 @@ cd /Weather_App
 6. **Stay Informed**: The Weather App keeps you informed about the weather in a user-friendly and visually appealing way.
 
 Feel free to explore and enjoy the app to stay updated on weather conditions and forecasts for your chosen locations.
+
+## ScreenShot
 
 ## License
 
