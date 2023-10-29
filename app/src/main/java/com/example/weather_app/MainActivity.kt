@@ -93,12 +93,12 @@ class MainActivity : AppCompatActivity() {
                 binding.lottieAnimationView.setAnimation(R.raw.animation_lobi2doa)
             }
 
-            "Light Rain", "Drizzle", "Moderate Rain", "Showers", "Heavy Rain" ->{
+            "Rain","RAIN","Light Rain", "Drizzle", "Moderate Rain", "Showers", "Heavy Rain" ->{
                 binding.root.setBackgroundResource(R.drawable.rain_background)
                 binding.lottieAnimationView.setAnimation(R.raw.animation_lobi464z)
             }
 
-            "Light Snow", "Moderate Snow", "Heavy Snow", "Blizzard"->{
+           "Snows","Snow", "Light Snow", "Moderate Snow", "Heavy Snow", "Blizzard"->{
                 binding.root.setBackgroundResource(R.drawable.snow_background)
                 binding.lottieAnimationView.setAnimation(R.raw.snowy)
             }
