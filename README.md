@@ -95,7 +95,7 @@ Feel free to explore and enjoy the app to stay updated on weather conditions and
 <img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/a8ec2f06-3146-4609-a08a-72a6bd12a8e0" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/ddb7d22e-febc-4ac9-b4e1-8c00eb4a1b25" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />   
+<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/604f0ca9-c982-409b-b30c-d8308fc223ea" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />   
 <br><br><br><br><br>
 <img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/15bcb6ff-7ffb-459b-a466-e5d19c7824dc" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
