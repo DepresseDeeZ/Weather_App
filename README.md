@@ -1,6 +1,16 @@
 # Weather App
 
-![App Screenshot](sunnyScreenShot.png)
+<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/b013b212-32c3-49dc-af37-c76bfcd3377f" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/937589ef-8b19-4d1d-b509-d39695d887ae" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />   
+<br><br><br><br><br>
+<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/22f541c6-09e1-413c-b38f-b26937f016cd" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/3e1356e0-8b86-41f6-acea-c6e99e5f2cc4" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
+
 
 
 ## Table of Contents
@@ -95,7 +105,7 @@ Feel free to explore and enjoy the app to stay updated on weather conditions and
 
 ## License
 
-This Weather App is licensed under the [MIT License](LICENSE).
+This Weather App is licensed is Free
 
 ## Acknowledgments
 
