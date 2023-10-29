@@ -36,9 +36,7 @@ class MainActivity : AppCompatActivity() {
                 return false
             }
         })
-
     }
-
     private fun fetchWeatherInfo(cityname :String){
         val retrofit = Retrofit.Builder()
             .addConverterFactory(GsonConverterFactory.create())
@@ -83,33 +81,30 @@ class MainActivity : AppCompatActivity() {
             }
 
         })
-
-
     }
-
     private fun ChangeImgToWeatherbyCondition(conditions : String) {
         when (conditions){
-            "Clear Sky","Sunny","Clear" ->{
+            "Clear Sky", "Sunny", "Clear" ->{
                 binding.root.setBackgroundResource(R.drawable.sunny_background)
-                binding.lottieAnimationView.setAnimation(R.raw.sun)
+                binding.lottieAnimationView.setAnimation(R.raw.sunny)
             }
-            "Party Clouds","Clouds","Overcast","Mist","Foggy" ->{
+            "Clouds", "Party Clouds", "Overcast", "Haze" ->{
                 binding.root.setBackgroundResource(R.drawable.colud_background)
-                binding.lottieAnimationView.setAnimation(R.raw.cloud)
+                binding.lottieAnimationView.setAnimation(R.raw.animation_lobi2doa)
             }
 
-            "Light Rain","Drizzle","Moderate Rain","Showers","Heavy Rain" ->{
+            "Light Rain", "Drizzle", "Moderate Rain", "Showers", "Heavy Rain" ->{
                 binding.root.setBackgroundResource(R.drawable.rain_background)
-                binding.lottieAnimationView.setAnimation(R.raw.rain)
+                binding.lottieAnimationView.setAnimation(R.raw.animation_lobi464z)
             }
 
-            "Light Snow ","Moderate Snow","Heavy Snow","Blizzard"->{
+            "Light Snow", "Moderate Snow", "Heavy Snow", "Blizzard"->{
                 binding.root.setBackgroundResource(R.drawable.snow_background)
-                binding.lottieAnimationView.setAnimation(R.raw.snow)
+                binding.lottieAnimationView.setAnimation(R.raw.snowy)
             }
             else->{
                 binding.root.setBackgroundResource(R.drawable.sunny_background)
-                binding.lottieAnimationView.setAnimation(R.raw.sun)
+                binding.lottieAnimationView.setAnimation(R.raw.sunny)
             }
 
 
@@ -118,10 +113,8 @@ class MainActivity : AppCompatActivity() {
     }
 
 
+
 }
-
-
-
 fun time(timestamp: Long): String {
     val sdf = SimpleDateFormat("HH:mm", Locale.getDefault())
     return  sdf.format((Date(timestamp*1000)))

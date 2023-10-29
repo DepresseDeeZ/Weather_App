@@ -53,7 +53,7 @@ dependencies {
     implementation("com.airbnb.android:lottie:6.1.0")
     // GSON converter
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
-// retrofit
+    // retrofit
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
     implementation("androidx.appcompat:appcompat:1.2.0") // Use the correct version
     implementation("com.google.android.material:material:1.2.1")// Use the correct version
