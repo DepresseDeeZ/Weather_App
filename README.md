@@ -1,18 +1,4 @@
 # Weather App
-
-<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/b013b212-32c3-49dc-af37-c76bfcd3377f" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/937589ef-8b19-4d1d-b509-d39695d887ae" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />   
-<br><br><br><br><br>
-<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/22f541c6-09e1-413c-b38f-b26937f016cd" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/3e1356e0-8b86-41f6-acea-c6e99e5f2cc4" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-
-
-
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -105,6 +91,16 @@ cd /Weather_App
 Feel free to explore and enjoy the app to stay updated on weather conditions and forecasts for your chosen locations.
 
 ## ScreenShot
+
+<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/a8ec2f06-3146-4609-a08a-72a6bd12a8e0" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/ddb7d22e-febc-4ac9-b4e1-8c00eb4a1b25" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />   
+<br><br><br><br><br>
+<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/15bcb6ff-7ffb-459b-a466-e5d19c7824dc" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://github.com/DepresseDeeZ/Weather_App/assets/132985504/72e01481-3185-49c7-a405-c29a6d21c6dc" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 ## License
 
