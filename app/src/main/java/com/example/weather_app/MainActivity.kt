@@ -90,7 +90,7 @@ class MainActivity : AppCompatActivity() {
             }
             "Clouds", "Party Clouds", "Overcast", "Haze" ->{
                 binding.root.setBackgroundResource(R.drawable.colud_background)
-                binding.lottieAnimationView.setAnimation(R.raw.animation_lobi2doa)
+                binding.lottieAnimationView.setAnimation(R.raw.cloud)
             }
 
             "Rain","RAIN","Light Rain", "Drizzle", "Moderate Rain", "Showers", "Heavy Rain" ->{
