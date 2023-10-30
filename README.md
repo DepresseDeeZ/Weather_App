@@ -32,7 +32,7 @@ List the technologies, libraries, and tools used in your Kotlin Android Weather 
 - Android Studio: Official integrated development environment (IDE) for Android.
 - OpenWeather API: Source for weather data.
 - Lottie: Animation library for creating engaging user interfaces.
-- Additional dependencies and libraries (list them).
+
 
 ## Challenges Faced
 
