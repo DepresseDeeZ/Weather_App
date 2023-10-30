@@ -120,7 +120,7 @@ fun time(timestamp: Long): String {
     return  sdf.format((Date(timestamp*1000)))
 }
 fun dayName(timestamp: Long):String{
-    val sdf = SimpleDateFormat("EEE", Locale.getDefault())
+    val sdf = SimpleDateFormat("EEEE", Locale.getDefault())
     return  sdf.format((Date()))
 }
 fun date(): String {
